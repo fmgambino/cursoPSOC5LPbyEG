@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "FirmwareESP8266",
+			"path": "software\\FirmwareESP8266"
+		}
+	],
+	"settings": {}
+}
